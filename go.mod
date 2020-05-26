@@ -16,3 +16,5 @@ require (
 )
 
 go 1.11
+
+replace github.com/prometheus/client_model v0.2.0 => github.com/lovecandy126/prometheus-client_model v0.2.0
